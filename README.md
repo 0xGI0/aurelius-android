@@ -1,3 +1,8 @@
+> **⚠️ Umgezogen:** Dieses Projekt heißt jetzt **Stoa** und lebt im Monorepo
+> [`0xGI0/stoa`](https://github.com/0xGI0/stoa) — mit vollständiger History
+> dieses Repos. Hier passiert nichts mehr; die bisherigen Releases bleiben
+> zur Verifikation alter Installationen erhalten.
+
 <p align="center">
   <img src="docs/logo.png" width="140" alt="Aurelius-Logo: Lorbeerkranz mit A">
 </p>
