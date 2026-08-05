@@ -13,7 +13,7 @@ room = "2.7.2"
 datastore = "1.1.7"
 securityCrypto = "1.1.0-alpha06"
 junit = "4.13.2"
-coroutinesTest = "1.10.2"
+coroutinesTest = "1.11.0"
 
 [libraries]
 androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
